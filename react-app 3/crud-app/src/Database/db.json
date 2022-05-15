@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": [
+        "sarn"
+      ],
+      "username": "hitman",
+      "email": "rohitbhai@gmail.com",
+      "phone": "7023507717",
+      "id": "1"
+    },
+    {
+      "name": [
+        "Shashank Shekhar"
+      ],
+      "username": [
+        "shashank"
+      ],
+      "email": [
+        "shekhar16140884"
+      ],
+      "phone": [
+        "fhdksil"
+      ],
+      "id": "umIw0cc"
+    }
+  ]
+}

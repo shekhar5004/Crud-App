@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "swanky",
+      "username": "hitman",
+      "email": "rohitbhai@gmail.com",
+      "phone": "7023507717",
+      "id": "1"
+    },
+    {
+      "name": "Shashank",
+      "username": "shekhar",
+      "email": "234@gmail.com",
+      "phone": "890324444",
+      "id": "ce1NauG"
+    },
+    {
+      "name": "Shashank",
+      "username": "checku",
+      "email": "123@gmail.com",
+      "phone": "9934284837",
+      "id": "DygelpP"
+    },
+    {
+      "name": "Shashank",
+      "username": "checku",
+      "email": "123@gmail.com",
+      "phone": "9934284837",
+      "id": "SznPCFl"
+    },
+    {
+      "name": "Virat",
+      "username": "checku",
+      "email": "123@gmail.com",
+      "phone": "9934284837",
+      "id": "Bex7TvP"
+    },
+    {
+      "name": "MsDhoni",
+      "username": "mahi",
+      "email": "mahi@hotmail.com",
+      "phone": "16432589",
+      "id": "IQeH-Pn"
+    },
+    {
+      "name": "Shashank",
+      "username": "qwerty",
+      "email": "456@gmail.com",
+      "phone": "89074563",
+      "id": "os2KQam"
+    }
+  ]
+}
